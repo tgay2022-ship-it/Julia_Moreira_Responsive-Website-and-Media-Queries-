@@ -66,6 +66,7 @@ ul li a{
     header{
         padding: 15px;
         background-color:rgb(37, 38, 74);
+    }
 
         main{
             flex-direction: row;
@@ -75,7 +76,6 @@ ul li a{
         ul{flex-direction:row;
 
         }
-    }
         
 }
 
